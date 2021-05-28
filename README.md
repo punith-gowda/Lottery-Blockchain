@@ -1,5 +1,5 @@
 # Lottery-Blockchain
-A lottery app made using solidity web3 and etherium. 
+A lottery app made using solidity web3 and ethereum. 
 
 
 After downloading  (inside the folder)
