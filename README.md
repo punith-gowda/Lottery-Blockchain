@@ -1,14 +1,12 @@
 # Lottery-Blockchain
-A lottery app made using solidity web3 and ethereum. 
+#### A lottery app made using solidity web3 and ethereum. 
 
+**Instructions:**
 
-After downloading  (inside the folder)
-   Run npm install  
+- After downloading, navigate inside the project folder and run the command:
+`npm install`
 
-Install and Login to metamask (chrome extension) 
+- Install and Login to metamask (chrome extension) 
 
-To start the server 
-  Run npm start  
-
-
-lottery is a separate file inorder to  write our smart Contract and to deploy it.
+- Start the development server by running the command: 
+`npm start`
