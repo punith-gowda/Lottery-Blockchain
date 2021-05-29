@@ -10,3 +10,5 @@ Install and Login to metamask (chrome extension)
 To start the server 
   Run npm start  
 
+
+Contracts is a separate file inorder to deploy Contract and write our smart Contract
