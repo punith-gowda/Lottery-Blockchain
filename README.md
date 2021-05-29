@@ -11,4 +11,4 @@ To start the server
   Run npm start  
 
 
-Contracts is a separate file inorder to deploy Contract and write our smart Contract
+lottery is a separate file inorder to  write our smart Contract and to deploy it.
